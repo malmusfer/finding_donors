@@ -1,3 +1,5 @@
+# Note that: This is project template was provided by Udacity and I have completed all the tasks that were required to build the models and optimized and used a technique of the features reduction. 
+
 
 # Supervised Learning
 ## Project: Finding Donors for CharityML
